@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TahseenRayhan1
 - 👀 I’m interested in computer science, machine learning, AI, and more
-- 🌱 I’m currently learning Python 3, Java, and a grade 10 student
+- 🌱 I’m currently learning Python, Java, and a grade 11 student
 - 💞️ I’m looking to collaborate on various projects in the future
 - 📫 Instagram: @tahseenr
 
